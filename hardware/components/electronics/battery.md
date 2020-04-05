@@ -12,6 +12,15 @@
 | B2SR | ? | ? |
 | B2XR | LG | INR18650HG2 |
 
+## Power button combinations
+| Process | Result |
+|--|--|
+| Fast click | Shows battery level indicator |
+| 1 second hold | Turns on battery |
+| 3 second hold | Turns off battery |
+| 5 fast clicks | Puts the board into Bluetooth pairing mode |
+| While plugged in, holding the power button until all lights turn off | Hard resets the battery |
+
 ## Status lights
 ### Standard range battery
 | Power button LED | Battery level indicator | Meaning |
