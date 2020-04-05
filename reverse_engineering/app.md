@@ -4,7 +4,7 @@
 
 In the iOS app there is a `UIVIewController` labeled `BBDebugArea`. I wrote a small MobileSubstrate tweak that uses the inbox button as a trigger to open `BBDebugArea`. From what I've seen, the proper way to open `BBDebugMenu` is through `BB.DebugSettings`, but unfortunately `BB.DebugSettings` storyboard file is missing from the app.
 
-![](images/bbdebugarea_1.png | width=100)
+<img src="https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/images/bbdebugarea_1.png" width=200>
 
 ### Console tab
 - Receives data from various sources: All (0x00), Debug (0x02), MD (0x03), Batt (0x04), PLink (0x05), Phone (0x06), RLink (0x07), Remote (0x08), and Accessory (0x09)
