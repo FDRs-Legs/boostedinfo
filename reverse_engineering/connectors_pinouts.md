@@ -1,6 +1,6 @@
 # Connectors and pinouts
 
-### Connectors
+## Connectors
 | Component | Manufacturer | Part number | Datasheet |
 |--|--|--|--|
 | Battery connector female | Higo | L513AM | |
@@ -10,4 +10,4 @@
 | Accessory connector female | Higo | Z409BM | |
 | Accessory connector female | Higo | Z409BG | |
 
-### Pinouts
+## Pinouts
