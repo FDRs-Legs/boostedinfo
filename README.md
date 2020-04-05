@@ -16,6 +16,7 @@ A lot of information is missing, so any help will be greatly appreciated. Feel f
 	 - Electronics
 	 	 - [Battery](hardware/components/electronics/battery.md)
 	 	 - [Charger](hardware/components/electronics/charger.md)
+	 	 - [Connectors and pinouts](hardware/components/connectors_pinouts.md)
 		 - [ESC](hardware/components/electronics/esc.md)
 		 - [Motor](hardware/components/electronics/motor.md)
 		 - [Remote](hardware/components/electronics/remote.md)
@@ -24,5 +25,4 @@ A lot of information is missing, so any help will be greatly appreciated. Feel f
 - [App](reverse_engineering/app.md)
 - [BLE](reverse_engineering/ble.md)
 - [CANBus](reverse_engineering/canbus.md)
-- [Connectors and pinouts](reverse_engineering/connectors_pinouts.md)
 - [Firmware](reverse_engineering/firmware.md)
