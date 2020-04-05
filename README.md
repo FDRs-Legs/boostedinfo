@@ -16,7 +16,7 @@ A lot of information is missing, so any help will be greatly appreciated. Feel f
 	 - Electronics
 	 	 - [Battery](hardware/components/electronics/battery.md)
 	 	 - [Charger](hardware/components/electronics/charger.md)
-	 	 - [Connectors and pinouts](hardware/components/connectors_pinouts.md)
+	 	 - [Connectors and pinouts](hardware/components/electronics/connectors_pinouts.md)
 		 - [ESC](hardware/components/electronics/esc.md)
 		 - [Motor](hardware/components/electronics/motor.md)
 		 - [Remote](hardware/components/electronics/remote.md)
