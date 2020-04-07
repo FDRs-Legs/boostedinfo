@@ -3,12 +3,12 @@
 ## Connectors
 | Component | Manufacturer | Part number | Datasheet |
 |--|--|--|--|
-| Battery connector female | Higo | L513AM | [Link](documents/l313am-p-00-ar-1000.pdf) |
-| Battery connector male | Higo | L513AG | [Link](documents/l313am-p-00-ar-1000.pdf) |
-| Motor connector female | Higo | Z910AM | [Link](documents/z610am-p-00-ac-1000.pdf) |
-| Motor connector male | Higo | Z910AG | [Link](documents/z610am-p-00-ac-1000.pdf) |
-| Auxiliary connector female | Higo | Z409BM | [Link](documents/z209bm-p-00-a0-1000.pdf) |
-| Auxiliary connector female | Higo | Z409BG | [Link](documents/z209bm-p-00-a0-1000.pdf) |
+| Battery connector female | Higo | L513AM | [Link](https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/documents/l313am-p-00-ar-1000.pdf) |
+| Battery connector male | Higo | L513AG | [Link](https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/documents/l313am-p-00-ar-1000.pdf) |
+| Motor connector female | Higo | Z910AM | [Link](https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/documents/z610am-p-00-ac-1000.pdf) |
+| Motor connector male | Higo | Z910AG | [Link](https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/documents/z610am-p-00-ac-1000.pdf) |
+| Auxiliary connector female | Higo | Z409BM | [Link](https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/documents/z209bm-p-00-a0-1000.pdf) |
+| Auxiliary connector female | Higo | Z409BG | [Link](https://raw.githubusercontent.com/d1nkyy/boostedinfo/master/documents/z209bm-p-00-a0-1000.pdf) |
 
 ## Pinouts
 ### Battery connector
