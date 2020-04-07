@@ -2,7 +2,7 @@
 
 ## Services
 
-### Battery `65A8EAA8-C61F-11E5-9912-BA0BE0483C18` 
+### `65A8EAA8-C61F-11E5-9912-BA0BE0483C18` Battery
 | Characteristic UUID | Name | Notes |
 |--|--|--|
 | `65A8EEAE-C61F-11E5-9912-BA0BE0483C18` | Battery SOC | |
@@ -13,7 +13,7 @@
 | `65A8F834-C61F-11E5-9912-BA0BE0483C18` | Battery serial number | |
 | `65A8F835-C61F-11E5-9912-BA0BE0483C18` | Battery RTC | |
 
-### Board `7DC55A86-C61F-11E5-9912-BA0BE0483C18` 
+### `7DC55A86-C61F-11E5-9912-BA0BE0483C18` Board
 | Characteristic UUID | Name | Notes |
 |--|--|--|
 | `7DC59643-C61F-11E5-9912-BA0BE0483C18` | Board model name | |
@@ -29,14 +29,14 @@
 | `7DC5C202-C61F-11E5-9912-BA0BE0483C18` | Motor driver firmware version | |
 
 
-### Debug Serial `588560E2-0065-11E6-8D22-5E5517507C66` 
+### `588560E2-0065-11E6-8D22-5E5517507C66` Debug Serial
 | Characteristic UUID | Name | Notes |
 |--|--|--|
 | `58856524-0065-11E6-8D22-5E5517507C66` | Debug serial | |
 | `58856525-0065-11E6-8D22-5E5517507C66` | Debug serial auth | |
 
 
-### Lights `EA32B817-D410-42E2-848A-1218201468FC` 
+### `EA32B817-D410-42E2-848A-1218201468FC` Lights
 | Characteristic UUID | Name | Notes |
 |--|--|--|
 | `EA32B761-D410-42E2-848A-1218201468FC` | Default mode | |
@@ -44,7 +44,7 @@
 | `EA32DCAC-D410-42E2-848A-1218201468FC` | Light status | |
 | `EA326B96-D410-42E2-848A-1218201468FC` | Brightness | |
 
-### Firmware update/bootloader/??? `00001016-d102-11e1-9b23-00025b00a5a5`
+### `00001016-d102-11e1-9b23-00025b00a5a5` Firmware update/bootloader/???
 | Characteristic UUID | Name | Notes |
 |--|--|--|
 | `00001010-d102-11e1-9b23-00025b00a5a5` |  | |
