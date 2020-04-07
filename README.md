@@ -26,3 +26,4 @@ A lot of information is missing, so any help will be greatly appreciated. Feel f
 - [BLE](reverse_engineering/ble.md)
 - [CANBus](reverse_engineering/canbus.md)
 - [Firmware](reverse_engineering/firmware.md)
+- [Serial access](reverse_engineering/serial_access.md)
