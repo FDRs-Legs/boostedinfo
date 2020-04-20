@@ -34,10 +34,9 @@
 | Green | 5V |
 
 ### Auxiliary connector
-The datasheet shows red, black, yellow, and bllue for wire colors but Boosted Beams have red, black, yellow, and green colored wires. The table below will use the actual wire colors in the Boosted Beams.
 | Wire | Meaning |
 |--|--|
-| Red | Positive |
-| Black | Ground |
+| Red | 15V |
+| Blue | Ground |
+| Black | CAN Low |
 | Yellow | CAN High |
-| Green | CAN Low |
